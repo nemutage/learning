@@ -15,4 +15,4 @@
 
 - x86系コンピュータを動かす理論と実装 作って理解するOS (途中)
 - 暗号技術入門 第3版 (途中)
-- Web API: The Good Parts (途中)
+- Web API: The Good Parts
